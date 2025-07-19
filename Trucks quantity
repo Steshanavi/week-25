@@ -7,7 +7,7 @@ def calculate_trucks_needed_by_weight(total_weight_goods, weight_per_truck):
     weight_per_truck (float): The weight capacity of one truck in kilograms.
 
     Returns:
-    int: The total number of trucks needed.
+    int: The total number of trucks needed.//
     """
     # Calculate the number of trucks needed
     trucks_needed = total_weight_goods / weight_per_truck
