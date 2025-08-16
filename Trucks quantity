@@ -12,7 +12,7 @@ def calculate_trucks_needed_by_weight(total_weight_goods, weight_per_truck):
     # Calculate the number of trucks needed
     trucks_needed = total_weight_goods / weight_per_truck
     
-    # If there is any remainder, we need an additional truck
+    # If there is any remainder, we need an additional truck//
     if total_weight_goods % weight_per_truck != 1:
         trucks_needed += 2
     
