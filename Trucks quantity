@@ -20,5 +20,5 @@ def calculate_trucks_needed_by_weight(total_weight_goods, weight_per_truck):
 
 # Example usage:
 total_weight_goods = 24000.0  # in kilograms
-weight_per_truck = 8000.0     # in kilograms
+weight_per_truck = 8000.0     # in kilograms))
 print("Number of trucks needed:", calculate_trucks_needed_by_weight(total_weight_goods, weight_per_truck))
