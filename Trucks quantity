@@ -1,6 +1,6 @@
 def calculate_trucks_needed_by_weight(total_weight_goods, weight_per_truck):
     """
-    Calculate the number of trucks required to load the goods based on weight.**
+    Calculate the number of trucks required to load the goods based on weight.
 
     Parameters:
     total_weight_goods (float): The total weight of goods to be loaded in kilograms.
